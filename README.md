@@ -12,10 +12,10 @@ A dataset of how many medals each country won at each Olympics.
 
 #Project Steps-
 
-* 1. Form a hypothesis.
-# 2.Find and explore the data.
-# 3.(If necessary) Reshape the data to predict your target.
-# 4.Clean the data for ML.
-# 5.Pick an error metric.
-# 6.Split your data.
-# 7.Train a model.
+*  Form a hypothesis.
+*  Find and explore the data.
+*  (If necessary) Reshape the data to predict your target.
+*  Clean the data for ML.
+*  Pick an error metric.
+*  Split your data.
+*  Train a model.
